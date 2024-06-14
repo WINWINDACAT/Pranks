@@ -1,5 +1,7 @@
 DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THE ZIPBOMB. PLEASE DO NOT EXTRACT ALL.
 
+Mediafire (for raw download): https://www.mediafire.com/file/o6ruk0nxhrwvxlt/Pranks.zip/file
+
 Folder by: WINWINDACAT. Modded by: ______.
 
 USAGE - You may use a modified version of this prank folder and upload it,
