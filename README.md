@@ -16,5 +16,6 @@ P.S. If you edit with notepad then you can change the site it sends you to.
 The "FreeRobux (Extract all)" Zip file is an INSANELY HUGE zipbomb.
 (Approx. Three hundred SEPTILLION Y O T T A B Y T E S)
 WARNING - USE THIS AT YOUR OWN RISK!!!
+(Zipbomb from: https://github.com/3kh0/ext-remover/discussions/386)
 
-Have fun and adding files to upload is reccommended!
+Have fun and adding files to upload is recommended!
